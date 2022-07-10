@@ -56,6 +56,11 @@ p {
   right: 22%;
 }
 
+.dbtn01 {
+  position: relative;
+  margin-right: 20px;
+}
+
 /* Navigation Bar */
 .navbar-brand {
   font-family: 'Ubuntu', sans-serif;
@@ -205,9 +210,17 @@ li {
   .dogimg {
     position: static;
     transform: rotate(0);
+    text-align: center;
+    margin-left: 80px;
   }
 
   .montfont {
     text-align: center;
+  }
+
+  .dbtn {
+    position: relative;
+    margin-left: 50px;
+    padding: 2%;
   }
 }
