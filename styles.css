@@ -211,16 +211,19 @@ li {
     position: static;
     transform: rotate(0);
     text-align: center;
-    margin-left: 100px;
   }
 
   .montfont {
     text-align: center;
   }
 
+  .dimg {
+    text-align: center;
+  }
+
   .dbtn {
     position: relative;
-    margin-left: 70px;
     padding: 2%;
+    text-align: center;
   }
 }
