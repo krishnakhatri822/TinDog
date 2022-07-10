@@ -96,7 +96,7 @@ p {
 /* Testimonial Section */
 #testimonials {
   text-align: center;
-  background-color: #781D42;
+  background-color: #774360;
   color: white;
 }
 
@@ -112,7 +112,7 @@ p {
 
 /* Press Section */
 #press {
-  background-color: #781D42;
+  background-color: #774360;
   text-align: center;
   padding-bottom: 5%;
 }
@@ -220,7 +220,7 @@ li {
 
   .dbtn {
     position: relative;
-    margin-left: 50px;
+    margin-left: 30px;
     padding: 2%;
   }
 }
